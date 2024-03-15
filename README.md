@@ -1,2 +1,3 @@
 # Tailwind-Expansion
-![Figma Embed](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FehX0kU7hqPjIcJ7ClUUIBx%2FTailwind-Expansion-Colors%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DLOzWL8nxePhujeCA-1)
+More colors for Tailwind CSS. To use, copy the contents of [`colors.js`](colors.js) inside the `theme {}` section of `tailwind.config.js`.
+To preview, open this [Figma link](https://www.figma.com/file/ehX0kU7hqPjIcJ7ClUUIBx/Tailwind-Expansion-Colors?type=design&node-id=0%3A1&mode=design&t=IC1qEnnCJtZljNQz-1).
